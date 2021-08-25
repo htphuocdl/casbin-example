@@ -81,7 +81,7 @@ For each policy, `match()` produces a boolean result of whether the condition is
     - `<`
     - `<=`
     - `>"`
-    - `>=
+    - `>=`
   - Nested operators:
     - `in`
     - `notIn`
